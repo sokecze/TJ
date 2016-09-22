@@ -1,0 +1,6 @@
+WordCount = 5
+MaxServingCount = 5
+WordLang = eng
+DeltaUp = 0
+DeltaDown = 0
+GetLearnedWord = true
